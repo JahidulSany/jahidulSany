@@ -29,11 +29,6 @@ A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate 
   </a>
 </p>
 
-### 🔥 My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahidulSany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JahidulSany&layout=compact&theme=vision-friendly-dark&show_icons=true)
-
 ### 👨🏻‍🎓 Education
 
 1. M.Sc. in Computing and Information Systems  
