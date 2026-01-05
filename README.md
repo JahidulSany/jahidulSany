@@ -57,6 +57,6 @@ A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate 
 ### 🚀 Current Status:
 
 - 🌱 I’m currently learning FastAPI and AWS Cloud Technology.
-- 🔭 I’m currently working on several Python Projects with AWS.
+- 🔭 I’m currently working on several Projects in Node.js, and Python with AWS.
 - 🕵️‍♂️ I'm eagerly looking for a Software Engineer role
 
